@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="system_settings">System Settings</string>
+    <string name="dynamic_color">Dynamic Color System</string>
+</resources>

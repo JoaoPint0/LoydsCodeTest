@@ -1,0 +1,8 @@
+<resources>
+    <string name="refresh">Refresh</string>
+    <string name="try_refresh">Try refreshing the page</string>
+    <string name="network_error">No Internet. Please Check your connection.</string>
+    <string name="generic_error">An error occurred.</string>
+    <string name="empty_state_title">You have no %s yet.</string>
+    <string name="empty_state_subtitle">When you create a %s, it will appear here.</string>
+</resources>

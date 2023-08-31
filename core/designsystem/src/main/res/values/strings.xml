@@ -1,0 +1,7 @@
+<resources>
+    <string name="articles_title">Articles</string>
+    <string name="favourites_title">Favourites</string>
+    <string name="settings_title">Settings</string>
+    <string name="details_title">Details</string>
+
+</resources>
